@@ -26,16 +26,13 @@ void loop() {
 In order to work with Drupal 8 and to run the code examples found in this book, the
 following software will be required.
 Web server software stack:
-Web server: Apache (recommended), Nginx, or Microsoft IIS
-Database: MySQL 5.5 or MariaDB 5.5.20 or higher
-PHP: PHP 5.5.9 or higher
+* Web server: Apache (recommended), Nginx, or Microsoft IIS
+* Database: MySQL 5.5 or MariaDB 5.5.20 or higher
+* PHP: PHP 5.5.9 or higher
 Chapter 1, A Simple Smart Gardening System, details all of these requirements and includes a
 recipe highlighting an out of the box development server setup.
 You will also need a text editor, following is a suggestion of popular editors and IDEs:
-Atom.io editor, https://atom.io/
-PHPStorm (specific Drupal integration), https://www.jetbrains.com/phpstorm/
-Vim with Drupal configuration, https://www.drupal.org/project/vimrc
-Your operating system’s default text editor or command line file editors
+Atom.io editor, https://atom.io/PHPStorm (specific Drupal integration), https://www.jetbrains.com/phpstorm/Vim with Drupal configuration, https://www.drupal.org/project/vimrc Your operating system’s default text editor or command line file editors
 For more information on hardware retirements, you may refer Appendix section of this book
 
 ## Related Products
