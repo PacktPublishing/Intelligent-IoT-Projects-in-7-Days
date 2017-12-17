@@ -43,6 +43,3 @@ For more information on hardware retirements, you may refer Appendix section of 
 * [IoT Projects with Bluetooth Low Energy](https://www.packtpub.com/hardware-and-creative/iot-projects-bluetooth-low-energy?utm_source=github&utm_medium=repository&utm_campaign=9781788399449)
 
 * [Learn Java in 7 days](https://www.packtpub.com/application-development/learn-java-7-days?utm_source=github&utm_medium=repository&utm_campaign=9781787121850)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
